@@ -1,2 +1,2 @@
 # demo
-demo_castores
+demo
